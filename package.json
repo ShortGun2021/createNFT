@@ -16,6 +16,7 @@
     "@types/jest": "^27.5.2",
     "@types/react": "^18.0.12",
     "@types/react-dom": "^18.0.5",
+    "arweave": "^1.11.4",
     "blob": "^0.1.0",
     "buffer": "^6.0.3",
     "immer": "^9.0.14",
